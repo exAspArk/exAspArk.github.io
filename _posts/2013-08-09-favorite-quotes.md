@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Любимые цитаты
-summary:    "Мой сборник лучших цитат."
+summary:    "Сборник моих любимых цитат."
 categories: books
 tags:       quotes
 ---
