@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Культура в компании. Zappos vs Valve
-summary:    "Сравнение культур в двух компаниях."
+summary:    Сравнение культур в двух компаниях.
 categories: books
 tags:       zappos valve culture
 ---
