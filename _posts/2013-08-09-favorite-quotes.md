@@ -42,7 +42,7 @@ tags:       quotes
 #### Семья
 
 - — Что родители подарили тебе на день рождения? — Жизнь.
-- С раннего детства путешествовал по всему свету; говорили, что отец хотел воспитать его так, чтобы он воспринимал весь мир как свой будущий дом. Айн Рэнд
+- He spent his childhood all over the world, because his father wanted him to know the world as his domain. Ayn Rand
 
 #### Дружба
 
