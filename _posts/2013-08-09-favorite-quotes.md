@@ -85,3 +85,4 @@ tags:       quotes
 #### Программирование
 
 - Any fool can write code that a computer can understand. Good programmers write code that humans can understand. Martin Fowler
+- From reading the code, one should be able to tell what the code does, but also why it does it. Floyd Marinescu, Abel Avram
