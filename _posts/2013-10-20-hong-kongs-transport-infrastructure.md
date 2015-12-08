@@ -175,3 +175,5 @@ tags:       travel china hk
 Остальные посты:
 
 - [Поднебесная. Часть 1. Пекин](/travel/2013/10/06/beijing/)
+- [Китаец в Китае, не говорящий на китайском?](/travel/2013/09/28/chinese-in-china/)
+- [My video report: HK & Beijing](/travel/2013/12/12/hong-kong-and-beijing-video/)
