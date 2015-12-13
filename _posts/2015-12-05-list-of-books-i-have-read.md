@@ -11,8 +11,8 @@ Some meaningful books.
 The books I would recommend are in **bold**.
 
 ### 2015
-- Как стать бизнесменом. Олег Тиньков
 - The goal: a process of ongoing improvement. Eliyahu Goldratt
+- Как стать бизнесменом. Олег Тиньков
 - Rich Dad Poor Dad: What The Rich Teach Their Kids About Money That the Poor and Middle Class Do Not! Robert T. Kiyosaki
 - **The 4-hour workweek: escape 9–5, live anywhere, and join the new rich. Timothy Ferriss**
 - **The Defining Decade: Why Your Twenties Matter--And How to Make the Most of Them Now. Meg Jay**
