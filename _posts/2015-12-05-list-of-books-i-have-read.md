@@ -18,6 +18,7 @@ The books I would recommend are in **bold**.
 - **The Defining Decade: Why Your Twenties Matter--And How to Make the Most of Them Now. Meg Jay**
 - The Stoic. Trilogy of Desire, #3. Theodore Dreiser (in Russian)
 - **Как воспитывать ребенка до детского сада. Александр Черницкий, Виктор Бирюков**
+- Domain-driven design. Eric J. Evans
 - Remote: Remote Office Not Required. David Heinemeie, Jason Fried
 - Папа-дебютант. Ценные советы для будущих отцов. Бенуа Ле Гоэдек
 - 7 Steps to Raising a Bilingual Child. Naomi Steiner (in Russian)
