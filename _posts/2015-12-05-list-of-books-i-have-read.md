@@ -10,6 +10,9 @@ Some meaningful books.
 
 The books I would recommend are in **bold**.
 
+### 2016
+- To Kill a Mockingbird. Harper Lee
+
 ### 2015
 - The goal: a process of ongoing improvement. Eliyahu Goldratt
 - Как стать бизнесменом. Олег Тиньков
