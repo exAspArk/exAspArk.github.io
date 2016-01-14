@@ -12,6 +12,7 @@ The books I would recommend are in **bold**.
 
 ### 2016
 - To Kill a Mockingbird. Harper Lee
+- The Seven Principles for Making Marriage Work. John M. Gottman and Nan Silver
 
 ### 2015
 - The goal: a process of ongoing improvement. Eliyahu Goldratt
