@@ -46,6 +46,7 @@ The books I would recommend are in **bold**.
 - How Would You Move Mount Fuji? Microsoft's Cult of the Puzzle: How the World's Smartest Companies Select the Most Creative Thinkers. William Poundstone (in Russian)
 - The God Delusion. Richard Dawkins (in Russian)
 - Simpler. Matt Madeiro
+- Start with No: The Negotiating Tools That the Pros Don't Want You to Know. Jim Camp
 - Word as Image. Ji Lee
 - The Magic of Thinking Big. David J. Schwartz (in Russian)
 - Buyology: Truth and Lies About Why We Buy. Martin Lindstrom (in Russian)
