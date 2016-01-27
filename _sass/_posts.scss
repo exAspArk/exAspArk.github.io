@@ -13,7 +13,14 @@
 }
 
 .post-content img[alt="photo item"] { 
-  max-width: 94%; 
+  max-width: 94%;
+  display: block;
+  margin: auto;
+  margin-top: 1.2em;
+}
+
+.post-content img[alt="photo"] { 
+  max-width: 100%;
   display: block;
   margin: auto;
   margin-top: 1.2em;
