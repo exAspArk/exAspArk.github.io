@@ -14,6 +14,7 @@ The books I would recommend are in **bold**.
 - To Kill a Mockingbird. Harper Lee
 - The Seven Principles for Making Marriage Work. John M. Gottman and Nan Silver
 - **Zero to One. Peter Thiel, Blake Masters**
+- **A Briefer History of Time. Stephen Hawking, Leonard Mlodinow**
 
 ### 2015
 - The goal: a process of ongoing improvement. Eliyahu Goldratt
