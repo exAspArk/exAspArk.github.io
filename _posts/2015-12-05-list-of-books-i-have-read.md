@@ -11,6 +11,7 @@ Some meaningful books.
 The books I would recommend are in **bold**.
 
 ### 2016
+- **Общаться с ребенком. Как? Юлия Гиппенрейтер**
 - To Kill a Mockingbird. Harper Lee
 - The Seven Principles for Making Marriage Work. John M. Gottman and Nan Silver
 - **Zero to One. Peter Thiel, Blake Masters**
@@ -55,7 +56,7 @@ The books I would recommend are in **bold**.
 - How to Stop Worrying and Start Living. Dale Carnegie, Dorothy Carnegie (in Russian)
 - **Atlas Shrugged. Ayn Rand** (in Russian)
 - The Alchemist. Paulo Coelho (in Russian)
-- The Financier. Trilogy of Desire, #1. Theodore Dreiser (in Russian)
+- **The Financier. Trilogy of Desire, #1. Theodore Dreiser** (in Russian)
 - Playbook. Thoughbot
 - Refactoring: Improving the Design of Existing Code. Martin Fowler
 - Patterns of Enterprise Application Architecture. Martin Fowler
