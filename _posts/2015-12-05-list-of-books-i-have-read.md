@@ -6,11 +6,12 @@ categories: books
 tags:       books
 ---
 
-Some meaningful books. Last updated on 13.08.2016.
+Some meaningful books. Last updated on 23.08.2016.
 
 The books I would recommend are in **bold**.
 
 ### 2016
+- Martin Eden. Jack London
 - **Общаться с ребенком. Как? Юлия Гиппенрейтер**
 - To Kill a Mockingbird. Harper Lee
 - The Seven Principles for Making Marriage Work. John M. Gottman and Nan Silver
