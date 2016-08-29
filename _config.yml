@@ -3,8 +3,8 @@ title:       exAspArk
 email:       exaspark@gmail.com
 author:      exAspArk
 description: "My awesome site"
-baseurl:     ""
-url:         "https://exaspark.github.io/"
+url:          https://exaspark.me
+enforce_ssl:  exaspark.me
 date_format: "%b %-d, %Y"
 
 # Google services
