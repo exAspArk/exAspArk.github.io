@@ -10,6 +10,8 @@ tags:       travel
 
 \* *via [traveltip.org/countries_visited.php](https://traveltip.org/countries_visited.php)*
 
+Last updated on 30.10.2016.
+
 * China
 * Cyprus
 * Hong Kong
@@ -19,9 +21,9 @@ tags:       travel
 * Kazakhstan
 * Kyrgyzstan
 * Russia
+* Spain
 * Turkey
 * United Kingdom
 * United States of America
 * Uzbekistan
 * Vatican City
-
