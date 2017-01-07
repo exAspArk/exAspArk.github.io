@@ -6,16 +6,20 @@ categories: books
 tags:       books
 ---
 
-Some meaningful books. Last updated on 23.08.2016.
+Some meaningful books. Last updated on 07.01.2017.
 
 The books I would recommend are in **bold**.
+
+### 2017
+
+- Algorithms to Live By: The Computer Science of Human Decisions. Brian Christian, Tom Griffiths
 
 ### 2016
 - Martin Eden. Jack London
 - **Общаться с ребенком. Как? Юлия Гиппенрейтер**
 - To Kill a Mockingbird. Harper Lee
 - The Seven Principles for Making Marriage Work. John M. Gottman and Nan Silver
-- **Zero to One. Peter Thiel, Blake Masters**
+- Zero to One. Peter Thiel, Blake Masters
 - **A Briefer History of Time. Stephen Hawking, Leonard Mlodinow**
 
 ### 2015
