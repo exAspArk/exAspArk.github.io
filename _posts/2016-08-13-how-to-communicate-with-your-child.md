@@ -4,6 +4,10 @@ title:      Общаться с ребенком. Как?
 summary:    Мои впечатления о книге Юлии Гиппенрейтер.
 permalink:  /books/2016/08/13/how-to-communicate-with-your-child/
 categories: [books, children, parenting]
+related_posts:
+  - "Русские проблемы в английской речи"
+  - "Любимые цитаты"
+  - "Культура в компании. Zappos vs Valve"
 ---
 
 ![photo](/images/2016-08-13-how-to-communicate-with-your-child_1.jpg)

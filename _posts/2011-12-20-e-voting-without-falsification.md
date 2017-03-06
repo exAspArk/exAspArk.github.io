@@ -4,6 +4,9 @@ title:      Электронное голосование без фальсиф�
 summary:
 permalink:  /government/2011/12/20/e-voting-without-falsification/
 categories: [government, e-voting, falsification, travel]
+related_posts:
+  - "Countries I've visited"
+  - "List of books I've read"
 ---
 
 Этот пост я написал, будучи еще студентом.

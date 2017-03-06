@@ -4,6 +4,10 @@ title:      List of books I've read
 summary:
 permalink:  /books/2015/12/05/list-of-books-i-have-read/
 categories: [books, reading, list]
+related_posts:
+  - "Русские проблемы в английской речи"
+  - "Любимые цитаты"
+  - "Культура в компании. Zappos vs Valve"
 ---
 
 Some meaningful books. Last updated on 06.03.2017.

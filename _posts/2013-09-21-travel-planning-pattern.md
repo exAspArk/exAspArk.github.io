@@ -4,6 +4,10 @@ title:      Шаблон для планирования путешествия
 summary:    Как я планирую путешествие.
 permalink:  /travel/2013/09/21/travel-planning-pattern/
 categories: [travel, planning]
+related_posts:
+  - "Countries I've visited"
+  - "My video report: HK & Beijing"
+  - "Поднебесная. Часть 1. Пекин"
 ---
 
 Хотелось бы поделиться своим способом планирования путешествия в другую страну.
