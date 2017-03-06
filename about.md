@@ -7,6 +7,8 @@ tags: about
 
 Follow me:
 
-* [twitter.com/exAspArk](https://twitter.com/exAspArk)
-* [github.com/exAspArk](https://github.com/exAspArk)
-* [youtube.com/exAspArk](https://youtube.com/exAspArk)
+* [Twitter](https://twitter.com/exAspArk)
+* [GitHub](https://github.com/exAspArk)
+* [LinkedIn](https://www.linkedin.com/in/evgenyli)
+* [Speaker Deck](https://speakerdeck.com/exaspark)
+* [YouTube](https://youtube.com/exAspArk)
