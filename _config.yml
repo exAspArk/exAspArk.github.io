@@ -1,6 +1,7 @@
 # Site settings
 title:       exAspArk
-email:       exaspark@gmail.com
+email:       exAspArk@gmail.com
+real_email:  exAspArk+me@gmail.com
 author:      exAspArk
 description: "My awesome site"
 url:          https://exaspark.me
@@ -17,8 +18,8 @@ google_tag_manager:
 bing_verification:
 
 # Optional features
-animated:             false
-show_related_posts:   false
+animated:             true
+show_related_posts:   true
 show_post_footers:    false
 show_social_icons:    false
 ajaxify_contact_form: false
@@ -29,7 +30,7 @@ enable_anchorjs: false
 # Facebook Page integration
 # (for instant articles and other stuff)
 fb_page: false
-fb_page_id: 
+fb_page_id:
 
 # Disqus post comments
 # (leave blank to disable Disqus)

@@ -2,8 +2,8 @@
 layout:     post
 title:      Countries I've visited
 summary:
-categories: travel
-tags:       travel
+permalink:  /travel/2016/03/13/countries-i-have-visited/
+categories: [travel, countries, life]
 ---
 
 ![](/images/2016-03-13-countries-i-have-visited.png)

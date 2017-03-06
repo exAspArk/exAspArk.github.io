@@ -2,8 +2,8 @@
 layout:     post
 title:      Шаблон для планирования путешествия
 summary:    Как я планирую путешествие.
-categories: travel
-tags:       travel
+permalink:  /travel/2013/09/21/travel-planning-pattern/
+categories: [travel, planning]
 ---
 
 Хотелось бы поделиться своим способом планирования путешествия в другую страну.

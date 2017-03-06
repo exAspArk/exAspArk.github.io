@@ -2,8 +2,8 @@
 layout:     post
 title:      List of books I've read
 summary:
-categories: books
-tags:       books
+permalink:  /books/2015/12/05/list-of-books-i-have-read/
+categories: [books, reading, list]
 ---
 
 Some meaningful books. Last updated on 06.03.2017.

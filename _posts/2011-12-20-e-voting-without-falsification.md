@@ -2,8 +2,8 @@
 layout:     post
 title:      Электронное голосование без фальсификации
 summary:
-categories: government
-tags:       e-voting
+permalink:  /government/2011/12/20/e-voting-without-falsification/
+categories: [government, e-voting, falsification, travel]
 ---
 
 Этот пост я написал, будучи еще студентом.
