@@ -6,7 +6,7 @@ categories: books
 tags:       books
 ---
 
-Some meaningful books. Last updated on 21.01.2017.
+Some meaningful books. Last updated on 06.03.2017.
 
 The books I would recommend are in **bold**.
 
@@ -14,6 +14,7 @@ The books I would recommend are in **bold**.
 
 - Algorithms to Live By: The Computer Science of Human Decisions. Brian Christian, Tom Griffiths
 - **The Millionaire Next Door: The Surprising Secrets of America's Wealthy. Thomas J. Stanley**
+- **Smartest Investment Book Youll Ever Read Canadian Edition: The Simple Stress Free Way To Reach Your Investment Goals. Daniel R Solin**
 
 ### 2016
 - Martin Eden. Jack London
