@@ -88,7 +88,7 @@ text:
   post:
     updated:        'Updated'
     minute_read:    'minute read'
-    related_posts:  'Related Posts'
+    related_posts:  'Related posts'
   index:
     coming_soon: 'Coming soon...'
   thanks: 'Thanks for contacting us. We will reply as soon as possible.'

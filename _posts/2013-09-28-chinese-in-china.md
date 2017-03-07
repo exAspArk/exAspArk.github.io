@@ -5,7 +5,7 @@ summary:    Или что я ощущал, находясь в Китае.
 permalink:  /travel/2013/09/28/chinese-in-china/
 categories: [travel, movies, video]
 related_posts:
-  - "My video report: HK & Beijing"
+  - "My video: Hong Kong & Beijing"
   - "Поднебесная. Часть 1. Пекин"
   - "Поднебесная. Часть 2. Транспортная инфраструктура в Гонконге"
 ---

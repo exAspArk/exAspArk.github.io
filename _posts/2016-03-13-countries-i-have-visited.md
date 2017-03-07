@@ -5,7 +5,7 @@ summary:
 permalink:  /travel/2016/03/13/countries-i-have-visited/
 categories: [travel, countries, life]
 related_posts:
-  - "My video report: HK & Beijing"
+  - "My video: Hong Kong & Beijing"
   - "Шаблон для планирования путешествия"
   - "Поднебесная. Часть 1. Пекин"
 ---

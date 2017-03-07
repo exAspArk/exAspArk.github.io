@@ -5,9 +5,9 @@ summary:    Как я планирую путешествие.
 permalink:  /travel/2013/09/21/travel-planning-pattern/
 categories: [travel, planning]
 related_posts:
+  - "My video: Ayia Napa, Cyprus"
   - "Countries I've visited"
-  - "My video report: HK & Beijing"
-  - "Поднебесная. Часть 1. Пекин"
+  - "My video: Hong Kong & Beijing"
 ---
 
 Хотелось бы поделиться своим способом планирования путешествия в другую страну.

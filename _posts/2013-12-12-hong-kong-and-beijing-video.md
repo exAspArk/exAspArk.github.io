@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "My video report: HK & Beijing"
+title:      "My video: Hong Kong & Beijing"
 summary:
 permalink:  /travel/2013/12/12/hong-kong-and-beijing-video/
 categories: [travel, china, hk, video]

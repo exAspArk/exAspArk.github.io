@@ -5,7 +5,7 @@ summary:    Фотоотчет о путешествии в Китае.
 permalink:  /travel/2013/10/20/hong-kongs-transport-infrastructure/
 categories: [travel, china, hk, photos, transport]
 related_posts:
-  - "My video report: HK & Beijing"
+  - "My video: Hong Kong & Beijing"
   - "Поднебесная. Часть 1. Пекин"
   - "Китаец в Китае, не говорящий на китайском?"
 ---
