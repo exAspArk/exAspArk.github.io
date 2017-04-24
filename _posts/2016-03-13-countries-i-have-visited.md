@@ -14,8 +14,9 @@ related_posts:
 
 \* *via [traveltip.org/countries_visited.php](https://traveltip.org/countries_visited.php)*
 
-Last updated on 30.10.2016.
+Last updated on 24.04.2017.
 
+* Canada
 * China
 * Cyprus
 * Hong Kong
