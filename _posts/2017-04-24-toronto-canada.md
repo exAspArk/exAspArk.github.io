@@ -1,9 +1,10 @@
 ---
-layout:     post
-title:      "Записки о Торонто, Канада"
+layout:           post
+title:            "Записки о Торонто, Канада"
+meta_description: "Здесь твиты о моей жизни в Торонто, разбитые по категориям. Дата последнего обновления 24.04.2017. Следуй за мной в твиттере @exAspArk, чтобы следить за происходящим в реальном времени :)"
 summary:
-permalink:  /travel/2017/04/24/toronto-canada/
-categories: [travel, toronto, canada, immigration]
+permalink:        /travel/2017/04/24/toronto-canada/
+categories:       [travel, toronto, canada, immigration]
 related_posts:
   - "Countries I've visited"
   - "My video: Hong Kong & Beijing"

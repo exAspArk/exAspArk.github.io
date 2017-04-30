@@ -1,9 +1,10 @@
 ---
-layout:     post
-title:      Любимые цитаты
-summary:    Сборник моих любимых цитат.
-permalink:  /books/2013/08/09/favorite-quotes/
-categories: [books, quotes]
+layout:           post
+title:            Любимые цитаты
+meta_description: Сборник моих любимых цитат.
+summary:          Сборник моих любимых цитат.
+permalink:        /books/2013/08/09/favorite-quotes/
+categories:       [books, quotes]
 related_posts:
   - "List of books I've read"
   - "Русские проблемы в английской речи"

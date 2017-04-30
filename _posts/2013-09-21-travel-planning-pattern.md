@@ -1,9 +1,10 @@
 ---
-layout:     post
-title:      Шаблон для планирования путешествия
-summary:    Как я планирую путешествие.
-permalink:  /travel/2013/09/21/travel-planning-pattern/
-categories: [travel, planning]
+layout:           post
+title:            Шаблон для планирования путешествия
+meta_description: Как я планирую путешествие.
+summary:          Как я планирую путешествие.
+permalink:        /travel/2013/09/21/travel-planning-pattern/
+categories:       [travel, planning]
 related_posts:
   - "My video: Ayia Napa, Cyprus"
   - "Countries I've visited"

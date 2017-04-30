@@ -1,9 +1,10 @@
 ---
-layout:     post
-title:      Общаться с ребенком. Как?
-summary:    Мои впечатления о книге Юлии Гиппенрейтер.
-permalink:  /books/2016/08/13/how-to-communicate-with-your-child/
-categories: [books, children, parenting]
+layout:           post
+title:            Общаться с ребенком. Как?
+meta_description: Мои впечатления о книге Юлии Гиппенрейтер.
+summary:          Мои впечатления о книге Юлии Гиппенрейтер.
+permalink:        /books/2016/08/13/how-to-communicate-with-your-child/
+categories:       [books, children, parenting]
 related_posts:
   - "Русские проблемы в английской речи"
   - "Любимые цитаты"

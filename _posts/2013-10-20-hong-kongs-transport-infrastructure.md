@@ -1,9 +1,10 @@
 ---
-layout:     post
-title:      Поднебесная. Часть 2. Транспортная инфраструктура в Гонконге
-summary:    Фотоотчет о путешествии в Китае.
-permalink:  /travel/2013/10/20/hong-kongs-transport-infrastructure/
-categories: [travel, china, hk, photos, transport]
+layout:           post
+title:            Поднебесная. Часть 2. Транспортная инфраструктура в Гонконге
+meta_description: Фотоотчет о путешествии в Китае.
+summary:          Фотоотчет о путешествии в Китае.
+permalink:        /travel/2013/10/20/hong-kongs-transport-infrastructure/
+categories:       [travel, china, hk, photos, transport]
 related_posts:
   - "My video: Hong Kong & Beijing"
   - "Поднебесная. Часть 1. Пекин"

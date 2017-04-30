@@ -1,9 +1,10 @@
 ---
-layout:     post
-title:      List of books I've read
-summary:
-permalink:  /books/2015/12/05/list-of-books-i-have-read/
-categories: [books, reading, list]
+layout:           post
+title:            List of books I've read
+meta_description: Some meaningful books. Last updated on 06.03.2017.
+summary:          Some meaningful books. Last updated on 06.03.2017.
+permalink:        /books/2015/12/05/list-of-books-i-have-read/
+categories:       [books, reading, list]
 related_posts:
   - "Русские проблемы в английской речи"
   - "Любимые цитаты"

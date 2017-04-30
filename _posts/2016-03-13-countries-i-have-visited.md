@@ -1,9 +1,10 @@
 ---
-layout:     post
-title:      Countries I've visited
-summary:
-permalink:  /travel/2016/03/13/countries-i-have-visited/
-categories: [travel, countries, life]
+layout:           post
+title:            Countries I've visited
+meta_description: Last updated on 24.04.2017.
+summary:          Last updated on 24.04.2017.
+permalink:        /travel/2016/03/13/countries-i-have-visited/
+categories:       [travel, countries, life]
 related_posts:
   - "My video: Hong Kong & Beijing"
   - "Шаблон для планирования путешествия"

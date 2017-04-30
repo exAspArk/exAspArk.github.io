@@ -1,9 +1,10 @@
 ---
-layout:     post
-title:      Русские проблемы в английской речи
-summary:    Мои впечатления о книге Линн Виссон.
-permalink:  /books/2013/11/01/where-russians-go-wrong-in-spoken-english/
-categories: [books, english, mistakes]
+layout:           post
+title:            Русские проблемы в английской речи
+meta_description: Мои впечатления о книге Линн Виссон.
+summary:          Мои впечатления о книге Линн Виссон.
+permalink:        /books/2013/11/01/where-russians-go-wrong-in-spoken-english/
+categories:       [books, english, mistakes]
 related_posts:
   - "Общаться с ребенком. Как?"
   - "List of books I've read"

@@ -1,9 +1,10 @@
 ---
-layout:     post
-title:      Китаец в Китае, не говорящий на китайском?
-summary:    Или что я ощущал, находясь в Китае.
-permalink:  /travel/2013/09/28/chinese-in-china/
-categories: [travel, movies, video]
+layout:           post
+title:            Китаец в Китае, не говорящий на китайском?
+meta_description: Или что я ощущал, находясь в Китае.
+summary:          Или что я ощущал, находясь в Китае.
+permalink:        /travel/2013/09/28/chinese-in-china/
+categories:       [travel, movies, video]
 related_posts:
   - "My video: Hong Kong & Beijing"
   - "Поднебесная. Часть 1. Пекин"

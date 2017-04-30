@@ -1,9 +1,10 @@
 ---
-layout:     post
-title:      "My video: Hong Kong & Beijing"
+layout:           post
+title:            "My video: Hong Kong & Beijing"
+meta_description: ""
 summary:
-permalink:  /travel/2013/12/12/hong-kong-and-beijing-video/
-categories: [travel, china, hk, video]
+permalink:        /travel/2013/12/12/hong-kong-and-beijing-video/
+categories:       [travel, china, hk, video]
 related_posts:
   - "Поднебесная. Часть 2. Транспортная инфраструктура в Гонконге"
   - "Поднебесная. Часть 1. Пекин"

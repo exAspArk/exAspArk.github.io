@@ -1,9 +1,10 @@
 ---
-layout:     post
-title:      Культура в компании. Zappos vs Valve
-summary:    Сравнение культур в двух компаниях.
-permalink:  /books/2013/05/02/zappos-vs-valve/
-categories: [books, zappos, valve, culture]
+layout:           post
+title:            Культура в компании. Zappos vs Valve
+meta_description: Сравнение культур в двух компаниях.
+summary:          Сравнение культур в двух компаниях.
+permalink:        /books/2013/05/02/zappos-vs-valve/
+categories:       [books, zappos, valve, culture]
 related_posts:
   - "List of books I've read"
   - "Русские проблемы в английской речи"
