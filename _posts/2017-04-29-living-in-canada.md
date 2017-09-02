@@ -1,6 +1,6 @@
 ---
 layout:           post
-title:            "О Канаде"
+title:            "О жизни в Канаде"
 meta_description: "О жизни в Канаде. Дата последнего обновления 01.09.2017. Следуй за мной в твиттере @exAspArk, чтобы следить за происходящим в реальном времени :)"
 summary:
 permalink:        /travel/2017/04/29/living-in-canada/
@@ -11,7 +11,7 @@ related_posts:
   - "Шопинг в Торонто, Канада"
 ---
 
-Дата последнего обновления 01.09.2017.
+Дата последнего обновления 14.05.2017.
 
 <script src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -23,5 +23,8 @@ related_posts:
 <blockquote class="twitter-tweet" data-lang="en" data-link-color="#0076df" data-align="center"><p lang="ru" dir="ltr">Это по желанию :) Лосей и енотов я тут пока еще не видел, но вот 🐿️ бегает очень много. Вижу примерно так же часто, как 🐈 на Кипре <a href="https://t.co/l9m1Jg2bsv">https://t.co/l9m1Jg2bsv</a></p>&mdash; exAspArk (@exAspArk) <a href="https://twitter.com/exAspArk/status/855552407295668224">April 21, 2017</a></blockquote>
 <blockquote class="twitter-tweet" data-lang="en" data-link-color="#0076df" data-align="center" data-conversation="none"><p lang="ru" dir="ltr">P.S. на Кипре когда-то давно было очень много змей. Для борьбы с ними завезли большое количество котов. Есть даже кошачий монастырь :)</p>&mdash; exAspArk (@exAspArk) <a href="https://twitter.com/exAspArk/status/855553525279064064">April 21, 2017</a></blockquote>
 <blockquote class="twitter-tweet" data-lang="en" data-link-color="#0076df" data-align="center"><p lang="ru" dir="ltr">Да, есть много смешных видео с енотами, пытающимися залезть в мусорку; белками, ворующими шоколадки в магазине) Но я почти в даунтауне, не 👀 <a href="https://t.co/etNV2Wut4N">https://t.co/etNV2Wut4N</a></p>&mdash; exAspArk (@exAspArk) <a href="https://twitter.com/exAspArk/status/855772448482111489">April 22, 2017</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en" data-link-color="#0076df" data-align="center"><p lang="ru" dir="ltr">Купил годовую подписку на всю семью в Ontario Science Centre - он очень огромный! Будет всем интересно: от самых маленьких до самых взрослых</p>&mdash; exAspArk (@exAspArk) <a href="https://twitter.com/exAspArk/status/863636875344568320">May 14, 2017</a></blockquote>
+
+<br />
 
 Следуй за мной в твиттере [@exAspArk](https://twitter.com/exaspark), чтобы следить за происходящим в реальном времени.

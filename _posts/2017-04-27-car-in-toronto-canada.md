@@ -7,7 +7,7 @@ permalink:        /travel/2017/04/27/car-in-toronto-canada/
 categories:       [car, toronto, canada, immigration]
 related_posts:
   - "Шопинг в Торонто, Канада"
-  - "О Канаде"
+  - "О жизни в Канаде"
   - "Общественный транспорт в Торонто, Канада"
 ---
 

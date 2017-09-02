@@ -6,7 +6,7 @@ summary:
 permalink:        /travel/2017/04/28/shopping-in-toronto-canada/
 categories:       [shopping, toronto, canada, immigration]
 related_posts:
-  - "О Канаде"
+  - "О жизни в Канаде"
   - "Иммиграция в Канаду"
   - "Автомобиль в Торонто, Канада"
 ---

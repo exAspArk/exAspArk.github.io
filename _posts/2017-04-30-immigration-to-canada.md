@@ -8,7 +8,7 @@ categories:       [immigration, toronto, canada, immigration]
 related_posts:
   - "Финансы в Канаде"
   - "Работа в Торонто, Канада"
-  - "О Канаде"
+  - "О жизни в Канаде"
 ---
 
 Дата последнего обновления 01.09.2017.
