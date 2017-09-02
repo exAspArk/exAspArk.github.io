@@ -11,7 +11,6 @@ related_posts:
   - "Жилье в Торонто, Канада"
 ---
 
-![photo](/images/2017-04-26-public-transportation-in-toronto-canada.jpg)
 Дата последнего обновления 17.05.2017.
 
 <script src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

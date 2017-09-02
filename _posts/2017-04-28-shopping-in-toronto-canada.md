@@ -20,4 +20,6 @@ related_posts:
 <blockquote class="twitter-tweet" data-lang="en" data-link-color="#0076df" data-align="center"><p lang="ru" dir="ltr">Из техники наконец-то купил себе беззеркальную камеру взамен массивной зеркальной. Правда дома теперь появился вот этот гигантский Cisco :) <a href="https://t.co/UEm7wdZEer">pic.twitter.com/UEm7wdZEer</a></p>&mdash; exAspArk (@exAspArk) <a href="https://twitter.com/exAspArk/status/852575480985333760">April 13, 2017</a></blockquote>
 <blockquote class="twitter-tweet" data-lang="en" data-link-color="#0076df" data-align="center"><p lang="ru" dir="ltr">А на выходных мы ради интереса доехали до русской части Торонто. Yummy Market, в котором все говорят по-русски, мне посоветовала коллега :) <a href="https://t.co/2bPPGupMK5">pic.twitter.com/2bPPGupMK5</a></p>&mdash; exAspArk (@exAspArk) <a href="https://twitter.com/exAspArk/status/854025196952596482">April 17, 2017</a></blockquote>
 
+<br />
+
 Следуй за мной в твиттере [@exAspArk](https://twitter.com/exaspark), чтобы следить за происходящим в реальном времени.

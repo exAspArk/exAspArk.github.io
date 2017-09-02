@@ -21,4 +21,6 @@ related_posts:
 <blockquote class="twitter-tweet" data-lang="en" data-link-color="#0076df" data-align="center" data-conversation="none"><p lang="ru" dir="ltr"><a href="https://twitter.com/exAspArk">@exAspArk</a> У Лимассола - 55 =)</p>&mdash; Sergey Sein (@linchus) <a href="https://twitter.com/linchus/status/852119848595464194">April 12, 2017</a></blockquote>
 <blockquote class="twitter-tweet" data-lang="en" data-link-color="#0076df" data-align="center"><p lang="ru" dir="ltr">Дома тепло, особенно после Кипра :) Пришлось уменьшить отопление почти до минимума <a href="https://t.co/tSNJxaK0SD">https://t.co/tSNJxaK0SD</a></p>&mdash; exAspArk (@exAspArk) <a href="https://twitter.com/exAspArk/status/852670028059217921">April 13, 2017</a></blockquote>
 
+<br />
+
 Следуй за мной в твиттере [@exAspArk](https://twitter.com/exaspark), чтобы следить за происходящим в реальном времени.

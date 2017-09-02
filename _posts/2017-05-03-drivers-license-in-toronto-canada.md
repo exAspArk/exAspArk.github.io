@@ -6,8 +6,8 @@ summary:
 permalink:        /travel/2017/05/03/drivers-license-in-toronto-canada/
 categories:       [drivers-license, toronto, canada, immigration]
 related_posts:
+  - "Еда в Торонто, Канада"
   - "Переезд в Торонто, Канада"
-  - "Жилье в Торонто, Канада"
   - "Работа в Торонто, Канада"
 ---
 
@@ -24,5 +24,7 @@ related_posts:
 <blockquote class="twitter-tweet" data-lang="en" data-link-color="#0076df" data-align="center"><p lang="ru" dir="ltr">И наконец-то G Full! Права теперь не аннулируются через 5 лет, страховка стоит чуть меньше (но ненамного, об этом в следующий раз)</p>&mdash; exAspArk (@exAspArk) <a href="https://twitter.com/exAspArk/status/854387772966285312">April 18, 2017</a></blockquote>
 <blockquote class="twitter-tweet" data-lang="en" data-link-color="#0076df" data-align="center"><p lang="ru" dir="ltr">Простой вопрос: что для вас означает &quot;хорошо водит автомобиль&quot;? Для канадцев чаще всего это означает &quot;водит безопасно&quot; ✌️</p>&mdash; exAspArk (@exAspArk) <a href="https://twitter.com/exAspArk/status/854388027728244739">April 18, 2017</a></blockquote>
 <blockquote class="twitter-tweet" data-lang="en" data-link-color="#0076df" data-align="center"><p lang="ru" dir="ltr">Тогда у меня с консульством еще не все так плохо :) <a href="https://t.co/RTMOjmFVAC">https://t.co/RTMOjmFVAC</a></p>&mdash; exAspArk (@exAspArk) <a href="https://twitter.com/exAspArk/status/854393451445723136">April 18, 2017</a></blockquote>
+
+<br />
 
 Следуй за мной в твиттере [@exAspArk](https://twitter.com/exaspark), чтобы следить за происходящим в реальном времени.

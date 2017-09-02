@@ -29,4 +29,6 @@ related_posts:
 <blockquote class="twitter-tweet" data-lang="en" data-link-color="#0076df" data-align="center"><p lang="ru" dir="ltr">Да, про San Francisco я вообще молчу :D<br>Если кто не знал, есть сайт, где можно сравнить стоимость жизни. London v SF <a href="https://t.co/3ACvAwEMki">https://t.co/3ACvAwEMki</a> <a href="https://t.co/VCfTTQP8bA">https://t.co/VCfTTQP8bA</a></p>&mdash; exAspArk (@exAspArk) <a href="https://twitter.com/exAspArk/status/853070963591839745">April 15, 2017</a></blockquote>
 <blockquote class="twitter-tweet" data-lang="en" data-link-color="#0076df" data-align="center" data-conversation="none"><p lang="ru" dir="ltr"><a href="https://twitter.com/exAspArk">@exAspArk</a> Вот еще вариант <a href="https://t.co/jdlmuwQuO0">https://t.co/jdlmuwQuO0</a></p>&mdash; IldarKa (@kapkaev) <a href="https://twitter.com/kapkaev/status/853097603147284480">April 15, 2017</a></blockquote>
 
+<br />
+
 Следуй за мной в твиттере [@exAspArk](https://twitter.com/exaspark), чтобы следить за происходящим в реальном времени.

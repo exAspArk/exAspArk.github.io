@@ -7,7 +7,7 @@ permalink:        /travel/2017/05/02/work-in-toronto-canada/
 categories:       [work, toronto, canada, immigration]
 related_posts:
   - "Водительские права в Торонто, Канада"
-  - "Переезд в Торонто, Канада"
+  - "Еда в Торонто, Канада"
   - "Финансы в Канаде"
 ---
 

@@ -27,4 +27,6 @@ related_posts:
 <blockquote class="twitter-tweet" data-lang="en" data-link-color="#0076df" data-align="center"><p lang="ru" dir="ltr">Без SIN - ты в Канаде, считай, не человек :) Его надо хранит в секрете и показывать разве что только государству и работодателю</p>&mdash; exAspArk (@exAspArk) <a href="https://twitter.com/exAspArk/status/854633702994960384">April 19, 2017</a></blockquote>
 <blockquote class="twitter-tweet" data-lang="en" data-link-color="#0076df" data-align="center"><p lang="ru" dir="ltr">SSN - на всю жизнь, уникально идентифицирует человека. Поэтому могут получить за тебя налоговые вычеты, мед. бонусы, кредит и тд <a href="https://t.co/zayn6M0T5Z">https://t.co/zayn6M0T5Z</a></p>&mdash; exAspArk (@exAspArk) <a href="https://twitter.com/exAspArk/status/854758681723973632">April 19, 2017</a></blockquote>
 
+<br />
+
 Следуй за мной в твиттере [@exAspArk](https://twitter.com/exaspark), чтобы следить за происходящим в реальном времени.

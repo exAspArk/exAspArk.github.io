@@ -24,4 +24,6 @@ related_posts:
 <blockquote class="twitter-tweet" data-lang="en" data-link-color="#0076df" data-align="center"><p lang="ru" dir="ltr">Каршеринг 200км/день, если больше - не помню какие условия <a href="https://t.co/9Zegdq7Eoc">https://t.co/9Zegdq7Eoc</a></p>&mdash; exAspArk (@exAspArk) <a href="https://twitter.com/exAspArk/status/855427776702238720">April 21, 2017</a></blockquote>
 <blockquote class="twitter-tweet" data-lang="en" data-link-color="#0076df" data-align="center" data-conversation="none"><p lang="ru" dir="ltr">Цена на бензин. Это в каких единицах, кто-нибудь знает? <a href="https://t.co/vMElkYZMnl">pic.twitter.com/vMElkYZMnl</a></p>&mdash; exAspArk (@exAspArk) <a href="https://twitter.com/exAspArk/status/855428953556873216">April 21, 2017</a></blockquote>
 
+<br />
+
 Следуй за мной в твиттере [@exAspArk](https://twitter.com/exaspark), чтобы следить за происходящим в реальном времени.
