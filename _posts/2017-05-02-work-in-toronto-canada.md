@@ -11,7 +11,7 @@ related_posts:
   - "Финансы в Канаде"
 ---
 
-Дата последнего обновления 13.05.2017.
+Дата последнего обновления 14.05.2017.
 
 <script src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -48,6 +48,7 @@ related_posts:
 <blockquote class="twitter-tweet" data-lang="en" data-link-color="#0076df" data-align="center" data-conversation="none"><p lang="ru" dir="ltr">у нас точно такая же организация. Кроме команды платформы)</p>&mdash; Mike V. Girkin (@mike_girkin) <a href="https://twitter.com/mike_girkin/status/857287376594448385">April 26, 2017</a></blockquote>
 <blockquote class="twitter-tweet" data-lang="en" data-link-color="#0076df" data-align="center"><p lang="ru" dir="ltr">Сегодня у наш офис превратился в ночной клуб: огни, музыка, еда, напитки, фотографы, гости и тд :) Официально отмечали новоселье! 🎉</p>&mdash; exAspArk (@exAspArk) <a href="https://twitter.com/exAspArk/status/862912094739496960">May 12, 2017</a></blockquote>
 <blockquote class="twitter-tweet" data-lang="en" data-link-color="#0076df" data-align="center"><p lang="ru" dir="ltr">А ещё у нас недавно был ежемесячный хакатон. Угадайте, кто победил? :) Много крутых идей: Apple Pay, Phoenix, RFID билеты, React Native и тд <a href="https://t.co/3Nkq4MwtyL">pic.twitter.com/3Nkq4MwtyL</a></p>&mdash; exAspArk (@exAspArk) <a href="https://twitter.com/exAspArk/status/863274487000825856">May 13, 2017</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en" data-link-color="#0076df" data-align="center"><p lang="ru" dir="ltr">Пока все мечтают об экране со статистикой как в фильме &quot;Социальная сеть&quot; или сериале &quot;Силиконовая долина&quot;, мы стримим панд! 🐼 <a href="https://t.co/pqUcnv3aTw">pic.twitter.com/pqUcnv3aTw</a></p>&mdash; exAspArk (@exAspArk) <a href="https://twitter.com/exAspArk/status/863999280020959232">May 15, 2017</a></blockquote>
 
 <br />
 
