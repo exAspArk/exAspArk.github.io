@@ -1,7 +1,7 @@
 ---
 layout:           post
 title:            "Автомобиль в Торонто, Канада"
-meta_description: "Здесь твиты об авто в Торонто. Дата последнего обновления 01.09.2017. Следуй за мной в твиттере @exAspArk, чтобы следить за происходящим в реальном времени :)"
+meta_description: "Об авто в Торонто. Дата последнего обновления 01.09.2017. Следуй за мной в твиттере @exAspArk, чтобы следить за происходящим в реальном времени :)"
 summary:
 permalink:        /travel/2017/04/27/car-in-toronto-canada/
 categories:       [car, toronto, canada, immigration]
@@ -11,7 +11,7 @@ related_posts:
   - "Общественный транспорт в Торонто, Канада"
 ---
 
-Здесь твиты об авто в Торонто. Дата последнего обновления 01.09.2017. Следуй за мной в твиттере [@exAspArk](https://twitter.com/exaspark), чтобы следить за происходящим в реальном времени :)
+Дата последнего обновления 01.09.2017.
 
 <script src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -23,3 +23,5 @@ related_posts:
 <blockquote class="twitter-tweet" data-lang="en" data-link-color="#0076df" data-align="center"><p lang="ru" dir="ltr">Бесконтактная карта для отк-я/закр-я дверей не работала, правая фара постоянно горела, багажник не открывался. Вернул авто, все бесплатно :)</p>&mdash; exAspArk (@exAspArk) <a href="https://twitter.com/exAspArk/status/855112545828560896">April 20, 2017</a></blockquote>
 <blockquote class="twitter-tweet" data-lang="en" data-link-color="#0076df" data-align="center"><p lang="ru" dir="ltr">Каршеринг 200км/день, если больше - не помню какие условия <a href="https://t.co/9Zegdq7Eoc">https://t.co/9Zegdq7Eoc</a></p>&mdash; exAspArk (@exAspArk) <a href="https://twitter.com/exAspArk/status/855427776702238720">April 21, 2017</a></blockquote>
 <blockquote class="twitter-tweet" data-lang="en" data-link-color="#0076df" data-align="center" data-conversation="none"><p lang="ru" dir="ltr">Цена на бензин. Это в каких единицах, кто-нибудь знает? <a href="https://t.co/vMElkYZMnl">pic.twitter.com/vMElkYZMnl</a></p>&mdash; exAspArk (@exAspArk) <a href="https://twitter.com/exAspArk/status/855428953556873216">April 21, 2017</a></blockquote>
+
+Следуй за мной в твиттере [@exAspArk](https://twitter.com/exaspark), чтобы следить за происходящим в реальном времени.

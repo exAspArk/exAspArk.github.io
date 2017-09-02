@@ -1,7 +1,7 @@
 ---
 layout:           post
 title:            "Общественный транспорт в Торонто, Канада"
-meta_description: "Здесь твиты об общественном транспорте в Торонто. Дата последнего обновления 01.09.2017. Следуй за мной в твиттере @exAspArk, чтобы следить за происходящим в реальном времени :)"
+meta_description: "Об общественном транспорте в Торонто. Дата последнего обновления 01.09.2017. Следуй за мной в твиттере @exAspArk, чтобы следить за происходящим в реальном времени :)"
 summary:
 permalink:        /travel/2017/04/26/public-transportation-in-toronto-canada/
 categories:       [public-transportation, toronto, canada, immigration]
@@ -11,7 +11,7 @@ related_posts:
   - "Жилье в Торонто, Канада"
 ---
 
-Здесь твиты об общественном транспорте в Торонто. Дата последнего обновления 01.09.2017. Следуй за мной в твиттере [@exAspArk](https://twitter.com/exaspark), чтобы следить за происходящим в реальном времени :)
+Дата последнего обновления 01.09.2017.
 
 <script src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -22,3 +22,5 @@ related_posts:
 <blockquote class="twitter-tweet" data-lang="en" data-link-color="#0076df" data-align="center"><p lang="ru" dir="ltr">Лифты есть не на всех, но на большинстве станций. Метро начали строить в середине прошлого века <a href="https://t.co/yjTSXnjfRF">https://t.co/yjTSXnjfRF</a></p>&mdash; exAspArk (@exAspArk) <a href="https://twitter.com/exAspArk/status/852302574292279296">April 12, 2017</a></blockquote>
 <blockquote class="twitter-tweet" data-lang="en" data-link-color="#0076df" data-align="center" data-conversation="none"><p lang="ru" dir="ltr">По схеме сразу можно увидеть, что с Лондонским не сравнится ;) <a href="https://t.co/WcEHMgerRs">pic.twitter.com/WcEHMgerRs</a></p>&mdash; exAspArk (@exAspArk) <a href="https://twitter.com/exAspArk/status/852302715204104197">April 12, 2017</a></blockquote>
 <blockquote class="twitter-tweet" data-lang="en" data-link-color="#0076df" data-align="center"><p lang="ru" dir="ltr">Сегодня ад в метро: то одну станцию перекрыли из-за выброшенной сумки на пути, то кому-то стало плохо на др станции. Прогуляюсь пешком)</p>&mdash; exAspArk (@exAspArk) <a href="https://twitter.com/exAspArk/status/855426944183271424">April 21, 2017</a></blockquote>
+
+Следуй за мной в твиттере [@exAspArk](https://twitter.com/exaspark), чтобы следить за происходящим в реальном времени.

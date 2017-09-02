@@ -1,7 +1,7 @@
 ---
 layout:           post
 title:            "Работа в Торонто, Канада"
-meta_description: "Здесь твиты о работе в Торонто. Дата последнего обновления 01.09.2017. Следуй за мной в твиттере @exAspArk, чтобы следить за происходящим в реальном времени :)"
+meta_description: "О работе в Торонто. Дата последнего обновления 01.09.2017. Следуй за мной в твиттере @exAspArk, чтобы следить за происходящим в реальном времени :)"
 summary:
 permalink:        /travel/2017/05/02/work-in-toronto-canada/
 categories:       [work, toronto, canada, immigration]
@@ -11,7 +11,7 @@ related_posts:
   - "Финансы в Канаде"
 ---
 
-Здесь твиты о работе в Торонто. Дата последнего обновления 01.09.2017. Следуй за мной в твиттере [@exAspArk](https://twitter.com/exaspark), чтобы следить за происходящим в реальном времени :)
+Дата последнего обновления 01.09.2017.
 
 <script src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -29,3 +29,5 @@ related_posts:
 <blockquote class="twitter-tweet" data-lang="en" data-link-color="#0076df" data-align="center"><p lang="ru" dir="ltr">В основном канадцы =&gt; чаще всего родители / сами жили в др стране, потом переехали :) У многих интересная история. Есть и из Лондона кстати <a href="https://t.co/BsNRc8Moy4">https://t.co/BsNRc8Moy4</a></p>&mdash; exAspArk (@exAspArk) <a href="https://twitter.com/exAspArk/status/854759946675736576">April 19, 2017</a></blockquote>
 <blockquote class="twitter-tweet" data-lang="en" data-link-color="#0076df" data-align="center"><p lang="ru" dir="ltr">Про работу: в нашем основном торонтовском офисе человек 30, 1/2 - разработчики. Еще есть офисы в NY, SF, Лондоне, Мельбурне</p>&mdash; exAspArk (@exAspArk) <a href="https://twitter.com/exAspArk/status/856352293981212672">April 24, 2017</a></blockquote>
 <blockquote class="twitter-tweet" data-lang="en" data-link-color="#0076df" data-align="center" data-conversation="none"><p lang="ru" dir="ltr">Атмосфера, размер и рост стартапа + ресурсы большой компании. После выкупа направление не поменялось, основатели все так же у руля</p>&mdash; exAspArk (@exAspArk) <a href="https://twitter.com/exAspArk/status/856352440714645505">April 24, 2017</a></blockquote>
+
+Следуй за мной в твиттере [@exAspArk](https://twitter.com/exaspark), чтобы следить за происходящим в реальном времени.

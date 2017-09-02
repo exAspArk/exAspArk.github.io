@@ -1,7 +1,7 @@
 ---
 layout:           post
 title:            "Иммиграция в Канаду"
-meta_description: "Здесь твиты об иммиграции в Канаду. Дата последнего обновления 01.09.2017. Следуй за мной в твиттере @exAspArk, чтобы следить за происходящим в реальном времени :)"
+meta_description: "Об иммиграции в Канаду. Дата последнего обновления 01.09.2017. Следуй за мной в твиттере @exAspArk, чтобы следить за происходящим в реальном времени :)"
 summary:
 permalink:        /travel/2017/04/30/immigration-to-toronto-canada/
 categories:       [immigration, toronto, canada, immigration]
@@ -11,7 +11,7 @@ related_posts:
   - "О Канаде"
 ---
 
-Здесь твиты об иммиграции в Канаду. Дата последнего обновления 01.09.2017. Следуй за мной в твиттере [@exAspArk](https://twitter.com/exaspark), чтобы следить за происходящим в реальном времени :)
+Дата последнего обновления 01.09.2017.
 
 <script src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -28,3 +28,5 @@ related_posts:
 <blockquote class="twitter-tweet" data-lang="en" data-link-color="#0076df" data-align="center"><p lang="ru" dir="ltr">В Канаде есть преимущество: если удается попасть, то ПМЖ можно получить через год-два примерно. Все довольно определённо <a href="https://t.co/V9TOsFAzr9">https://t.co/V9TOsFAzr9</a></p>&mdash; exAspArk (@exAspArk) <a href="https://twitter.com/exAspArk/status/853069558122414085">April 15, 2017</a></blockquote>
 <blockquote class="twitter-tweet" data-lang="en" data-link-color="#0076df" data-align="center"><p lang="ru" dir="ltr">Да, про San Francisco я вообще молчу :D<br>Если кто не знал, есть сайт, где можно сравнить стоимость жизни. London v SF <a href="https://t.co/3ACvAwEMki">https://t.co/3ACvAwEMki</a> <a href="https://t.co/VCfTTQP8bA">https://t.co/VCfTTQP8bA</a></p>&mdash; exAspArk (@exAspArk) <a href="https://twitter.com/exAspArk/status/853070963591839745">April 15, 2017</a></blockquote>
 <blockquote class="twitter-tweet" data-lang="en" data-link-color="#0076df" data-align="center" data-conversation="none"><p lang="ru" dir="ltr"><a href="https://twitter.com/exAspArk">@exAspArk</a> Вот еще вариант <a href="https://t.co/jdlmuwQuO0">https://t.co/jdlmuwQuO0</a></p>&mdash; IldarKa (@kapkaev) <a href="https://twitter.com/kapkaev/status/853097603147284480">April 15, 2017</a></blockquote>
+
+Следуй за мной в твиттере [@exAspArk](https://twitter.com/exaspark), чтобы следить за происходящим в реальном времени.

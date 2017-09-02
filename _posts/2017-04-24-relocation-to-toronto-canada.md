@@ -1,7 +1,7 @@
 ---
 layout:           post
 title:            "Переезд в Торонто, Канада"
-meta_description: "Здесь твиты о моем пеерезде в Торонто. Дата последнего обновления 01.09.2017. Следуй за мной в твиттере @exAspArk, чтобы следить за происходящим в реальном времени :)"
+meta_description: "О моем пеерезде в Торонто. Дата последнего обновления 01.09.2017. Следуй за мной в твиттере @exAspArk, чтобы следить за происходящим в реальном времени :)"
 summary:
 permalink:        /travel/2017/04/24/relocation-to-toronto-canada/
 categories:       [relocation, toronto, canada, immigration]
@@ -11,7 +11,7 @@ related_posts:
   - "Countries I've visited"
 ---
 
-Здесь твиты о моем пеерезде в Торонто. Дата последнего обновления 01.09.2017. Следуй за мной в твиттере [@exAspArk](https://twitter.com/exaspark), чтобы следить за происходящим в реальном времени :)
+Дата последнего обновления 01.09.2017.
 
 <script src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -26,3 +26,5 @@ related_posts:
 <blockquote class="twitter-tweet" data-lang="en" data-link-color="#0076df" data-align="center"><p lang="ru" dir="ltr">Будучи в штатах по Work and Travel в студенческие годы я долго ждал свой SSN по почте. В итоге пришлось самому ехать за ним в др. город :)</p>&mdash; exAspArk (@exAspArk) <a href="https://twitter.com/exAspArk/status/854577521085599745">April 19, 2017</a></blockquote>
 <blockquote class="twitter-tweet" data-lang="en" data-link-color="#0076df" data-align="center"><p lang="ru" dir="ltr">Без SIN - ты в Канаде, считай, не человек :) Его надо хранит в секрете и показывать разве что только государству и работодателю</p>&mdash; exAspArk (@exAspArk) <a href="https://twitter.com/exAspArk/status/854633702994960384">April 19, 2017</a></blockquote>
 <blockquote class="twitter-tweet" data-lang="en" data-link-color="#0076df" data-align="center"><p lang="ru" dir="ltr">SSN - на всю жизнь, уникально идентифицирует человека. Поэтому могут получить за тебя налоговые вычеты, мед. бонусы, кредит и тд <a href="https://t.co/zayn6M0T5Z">https://t.co/zayn6M0T5Z</a></p>&mdash; exAspArk (@exAspArk) <a href="https://twitter.com/exAspArk/status/854758681723973632">April 19, 2017</a></blockquote>
+
+Следуй за мной в твиттере [@exAspArk](https://twitter.com/exaspark), чтобы следить за происходящим в реальном времени.

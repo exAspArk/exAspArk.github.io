@@ -9,6 +9,7 @@ Follow me on:
 
 * [twitter.com/exAspArk](https://twitter.com/exAspArk)
 * [github.com/exAspArk](https://github.com/exAspArk)
+* [medium.com/@exAspArk](https://medium.com/@exAspArk)
 * [youtube.com/exAspArk](https://youtube.com/exAspArk)
 
 Or say hello at <a id="my-email" href="mailto:do-not-spam@example.com">turn-on-js@example.com</a>!
