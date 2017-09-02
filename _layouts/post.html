@@ -56,13 +56,15 @@ layout: default
 
 {% if site.show_related_posts and page.related_posts %}
   <h3 class="related-post-title">{{ site.text.post.related_posts }}</h3>
-  {% for post in site.posts %}
-    {% if page.related_posts contains post.title and page.url != post.url %}
-      <div class="post ml2">
-        <a href="{{ post.url | prepend: site.baseurl }}" class="post-link">
-          <h4 class="post-title">{{ post.title }}</h4>
-        </a>
-      </div>
-    {% endif %}
+  {% for related_post_title in page.related_posts %}
+    {% for post in site.posts %}
+      {% if related_post_title == post.title and page.url != post.url %}
+        <div class="post ml2">
+          <a href="{{ post.url | prepend: site.baseurl }}" class="post-link">
+            <h4 class="post-title">{{ post.title }}</h4>
+          </a>
+        </div>
+      {% endif %}
+    {% endfor %}
   {% endfor %}
 {% endif %}
