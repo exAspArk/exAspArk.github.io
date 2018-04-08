@@ -11,15 +11,19 @@ related_posts:
   - "Культура в компании. Zappos vs Valve"
 ---
 
-Some meaningful books. Last updated on 07.09.2017.
+Some meaningful books. Last updated on 07.04.2018.
 
 The books I would recommend are in **bold**.
+
+### 2018
+
+- A Guide to the Good Life: The Ancient Art of Stoic Joy. William B Irvine
 
 ### 2017
 
 - Algorithms to Live By: The Computer Science of Human Decisions. Brian Christian, Tom Griffiths
 - **The Millionaire Next Door: The Surprising Secrets of America's Wealthy. Thomas J. Stanley**
-- **Smartest Investment Book Youll Ever Read Canadian Edition: The Simple Stress Free Way To Reach Your Investment Goals. Daniel R Solin**
+- **Smartest Investment Book You'll Ever Read Canadian Edition: The Simple Stress Free Way To Reach Your Investment Goals. Daniel R Solin**
 - Tools of Titans. Timothy Ferriss
 
 ### 2016
