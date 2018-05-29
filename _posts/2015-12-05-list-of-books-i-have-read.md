@@ -1,8 +1,8 @@
 ---
 layout:           post
 title:            List of books I've read
-meta_description: Some meaningful books. Last updated on 06.03.2017.
-summary:          Some meaningful books. Last updated on 06.03.2017.
+meta_description: Some meaningful books. Last updated on 29.05.2018.
+summary:          Some meaningful books. Last updated on 29.05.2018.
 permalink:        /books/2015/12/05/list-of-books-i-have-read/
 categories:       [books, reading, list]
 related_posts:
@@ -11,13 +11,14 @@ related_posts:
   - "Культура в компании. Zappos vs Valve"
 ---
 
-Some meaningful books. Last updated on 07.04.2018.
+Some meaningful books. Last updated on 29.05.2018.
 
 The books I would recommend are in **bold**.
 
 ### 2018
 
 - A Guide to the Good Life: The Ancient Art of Stoic Joy. William B Irvine
+- A Man Called Ove. Fredrik Backman
 
 ### 2017
 
