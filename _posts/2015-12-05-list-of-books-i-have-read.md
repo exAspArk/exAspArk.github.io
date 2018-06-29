@@ -11,7 +11,7 @@ related_posts:
   - "Культура в компании. Zappos vs Valve"
 ---
 
-Some meaningful books. Last updated on 25.06.2018.
+Some meaningful books. Last updated on 28.06.2018.
 
 The books I would recommend are in **bold**.
 
@@ -20,6 +20,7 @@ The books I would recommend are in **bold**.
 - A Guide to the Good Life: The Ancient Art of Stoic Joy. William B Irvine
 - A Man Called Ove. Fredrik Backman
 - Elixir in Action. Saša Jurić
+- Pretotype It. Alberto Savoia
 
 ### 2017
 
