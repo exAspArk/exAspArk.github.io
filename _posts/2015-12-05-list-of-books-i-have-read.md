@@ -15,6 +15,10 @@ Some meaningful books. Last updated on 28.06.2018.
 
 The books I would recommend are in **bold**.
 
+### 2019
+
+- The Charisma Myth: How Anyone Can Master the Art and Science of Personal Magnetism. Olivia Fox Cabane
+
 ### 2018
 
 - A Guide to the Good Life: The Ancient Art of Stoic Joy. William B Irvine
