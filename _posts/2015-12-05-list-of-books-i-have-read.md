@@ -18,6 +18,7 @@ The books I would recommend are in **bold**.
 ### 2019
 
 - The Charisma Myth: How Anyone Can Master the Art and Science of Personal Magnetism. Olivia Fox Cabane
+- The Intelligent Investor. Benjamin Graham
 
 ### 2018
 
