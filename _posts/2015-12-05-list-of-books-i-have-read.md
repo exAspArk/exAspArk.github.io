@@ -19,6 +19,7 @@ The books I would recommend are in **bold**.
 
 - The Charisma Myth: How Anyone Can Master the Art and Science of Personal Magnetism. Olivia Fox Cabane
 - The Intelligent Investor. Benjamin Graham
+- Principles: Life and Work. Ray Dalio
 
 ### 2018
 
