@@ -18,6 +18,7 @@ The books I would recommend are in **bold**.
 ### 2020
 
 - Shape Up. Ryan Singer
+- Principles For Navigating Big Debt Crises. Ray Dalio
 
 ### 2019
 
