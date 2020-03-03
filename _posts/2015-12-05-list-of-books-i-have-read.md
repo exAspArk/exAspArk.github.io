@@ -19,6 +19,7 @@ The books I would recommend are in **bold**.
 
 - Shape Up. Ryan Singer
 - Principles For Navigating Big Debt Crises. Ray Dalio
+- How to Win Friends and Influence People. Dale Carnegie
 
 ### 2019
 
