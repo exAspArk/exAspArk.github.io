@@ -20,6 +20,8 @@ The books I would recommend are in **bold**.
 - Shape Up. Ryan Singer
 - Principles For Navigating Big Debt Crises. Ray Dalio
 - How to Win Friends and Influence People. Dale Carnegie
+- **One Up On Wall Street: How To Use What You Already Know To Make Money In The Market. Peter Lynch**
+- **The Dhandho Investor: The Low - Risk Value Method to High Returns. Mohnish Pabrai**
 
 ### 2019
 
