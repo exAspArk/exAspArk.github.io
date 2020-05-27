@@ -22,6 +22,7 @@ The books I would recommend are in **bold**.
 - How to Win Friends and Influence People. Dale Carnegie
 - **One Up On Wall Street: How To Use What You Already Know To Make Money In The Market. Peter Lynch**
 - **The Dhandho Investor: The Low - Risk Value Method to High Returns. Mohnish Pabrai**
+- **Influence: The Psychology of Persuasion. Robert B Cialdini PhD**
 
 ### 2019
 
