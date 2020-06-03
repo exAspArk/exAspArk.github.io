@@ -23,6 +23,7 @@ The books I would recommend are in **bold**.
 - **One Up On Wall Street: How To Use What You Already Know To Make Money In The Market. Peter Lynch**
 - **The Dhandho Investor: The Low - Risk Value Method to High Returns. Mohnish Pabrai**
 - **Influence: The Psychology of Persuasion. Robert B Cialdini PhD**
+- The hard things about hard things. Ben Horowitz
 
 ### 2019
 
