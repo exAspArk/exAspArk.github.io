@@ -24,6 +24,7 @@ The books I would recommend are in **bold**.
 - **The Dhandho Investor: The Low - Risk Value Method to High Returns. Mohnish Pabrai**
 - **Influence: The Psychology of Persuasion. Robert B Cialdini PhD**
 - The hard things about hard things. Ben Horowitz
+- Upstream: The Quest to Solve Problems Before They Happen. Dan Heath
 
 ### 2019
 
