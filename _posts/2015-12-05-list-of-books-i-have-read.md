@@ -25,6 +25,7 @@ The books I would recommend are in **bold**.
 - **Influence: The Psychology of Persuasion. Robert B Cialdini PhD**
 - The hard things about hard things. Ben Horowitz
 - Upstream: The Quest to Solve Problems Before They Happen. Dan Heath
+- The Essays of Warren Buffett: Lessons for Corporate America. Lawrence A. Cunningham
 
 ### 2019
 
