@@ -26,6 +26,7 @@ The books I would recommend are in **bold**.
 - The hard things about hard things. Ben Horowitz
 - Upstream: The Quest to Solve Problems Before They Happen. Dan Heath
 - The Essays of Warren Buffett: Lessons for Corporate America. Lawrence A. Cunningham
+- **Quit Like a Millionaire: No Gimmicks, Luck, or Trust Fund Required. Kristy Shen**
 
 ### 2019
 
