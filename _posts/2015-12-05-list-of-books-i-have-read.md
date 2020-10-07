@@ -27,6 +27,7 @@ The books I would recommend are in **bold**.
 - Upstream: The Quest to Solve Problems Before They Happen. Dan Heath
 - The Essays of Warren Buffett: Lessons for Corporate America. Lawrence A. Cunningham
 - **Quit Like a Millionaire: No Gimmicks, Luck, or Trust Fund Required. Kristy Shen**
+- **Radical Candor: Be a Kick-Ass Boss Without Losing Your Humanity. Kim Scott**
 
 ### 2019
 
