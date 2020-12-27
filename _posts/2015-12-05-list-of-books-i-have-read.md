@@ -29,6 +29,7 @@ The books I would recommend are in **bold**.
 - **Quit Like a Millionaire: No Gimmicks, Luck, or Trust Fund Required. Kristy Shen**
 - **Radical Candor: Be a Kick-Ass Boss Without Losing Your Humanity. Kim Scott**
 - An Elegant Puzzle: Systems of Engineering Management. Will Larson
+- Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days. Jake Knapp
 
 ### 2019
 
