@@ -11,9 +11,13 @@ related_posts:
   - "Культура в компании. Zappos vs Valve"
 ---
 
-Some meaningful books. Last updated on 28.06.2018.
+Some meaningful books. Last updated on 24.02.2021.
 
 The books I would recommend are in **bold**.
+
+### 2021
+
+- On Writing Well: The Classic Guide to Writing Nonfiction. William Zinsser
 
 ### 2020
 

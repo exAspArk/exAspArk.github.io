@@ -19,12 +19,12 @@ Last updated on 24.04.2017.
 
 * Canada
 * China
+* Cuba
 * Cyprus
 * Hong Kong
 * India
-* Italy
 * Israel
-* Kazakhstan
+* Italy
 * Kyrgyzstan
 * Russia
 * Spain
