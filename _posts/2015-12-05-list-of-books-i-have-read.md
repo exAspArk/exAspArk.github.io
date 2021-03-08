@@ -11,13 +11,14 @@ related_posts:
   - "Культура в компании. Zappos vs Valve"
 ---
 
-Some meaningful books. Last updated on 24.02.2021.
+Some meaningful books. Last updated on 07.03.2021.
 
 The books I would recommend are in **bold**.
 
 ### 2021
 
 - On Writing Well: The Classic Guide to Writing Nonfiction. William Zinsser
+- **Good To Great: Why Some Companies Make the Leap...And Others Don't. Jim Collins**
 
 ### 2020
 
@@ -64,6 +65,7 @@ The books I would recommend are in **bold**.
 - **A Briefer History of Time. Stephen Hawking, Leonard Mlodinow**
 
 ### 2015
+
 - The goal: a process of ongoing improvement. Eliyahu Goldratt
 - Как стать бизнесменом. Олег Тиньков
 - Rich Dad Poor Dad: What The Rich Teach Their Kids About Money That the Poor and Middle Class Do Not! Robert T. Kiyosaki
@@ -81,6 +83,7 @@ The books I would recommend are in **bold**.
 - Megachange: The World in 2050. D. Franklin, John Andrews (in Russian)
 
 ### Before
+
 - iCon: Steve Jobs. Jeffrey S. Young, Jeffrey Young (in Russian)
 - Steve Jobs. Walter Isaacson (in Russian)
 - Getting Real: The Smarter, Faster, Easier Way to Build a Web Application. Jason Fried, Heinemeier David Hansson, Matthew Linderman (in Russian)
