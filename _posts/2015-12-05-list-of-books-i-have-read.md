@@ -11,7 +11,7 @@ related_posts:
   - "Культура в компании. Zappos vs Valve"
 ---
 
-Some meaningful books. Last updated on 07.03.2021.
+Some meaningful books. Last updated on 21.03.2021.
 
 The books I would recommend are in **bold**.
 
@@ -19,6 +19,7 @@ The books I would recommend are in **bold**.
 
 - On Writing Well: The Classic Guide to Writing Nonfiction. William Zinsser
 - **Good To Great: Why Some Companies Make the Leap...And Others Don't. Jim Collins**
+- The Innovation Stack: Building an Unbeatable Business One Crazy Idea at a Time. Jim McKelvey
 
 ### 2020
 
