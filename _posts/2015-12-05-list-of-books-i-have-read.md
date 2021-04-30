@@ -11,7 +11,7 @@ related_posts:
   - "Культура в компании. Zappos vs Valve"
 ---
 
-Some meaningful books. Last updated on 17.04.2021.
+Some meaningful books. Last updated on 29.04.2021.
 
 The books I would recommend are in **bold**.
 
@@ -21,6 +21,7 @@ The books I would recommend are in **bold**.
 - **Good To Great: Why Some Companies Make the Leap...And Others Don't. Jim Collins**
 - The Innovation Stack: Building an Unbeatable Business One Crazy Idea at a Time. Jim McKelvey
 - **The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change. Stephen R. Covey**
+- **No Rules Rules: Netflix and the Culture of Reinvention. Reed Hastings, Erin Meyer**
 
 ### 2020
 
