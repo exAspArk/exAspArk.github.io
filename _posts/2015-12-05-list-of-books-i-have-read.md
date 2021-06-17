@@ -22,6 +22,7 @@ The books I would recommend are in **bold**.
 - The Innovation Stack: Building an Unbeatable Business One Crazy Idea at a Time. Jim McKelvey
 - **The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change. Stephen R. Covey**
 - **No Rules Rules: Netflix and the Culture of Reinvention. Reed Hastings, Erin Meyer**
+- 100 to 1 in the Stock Market: A Distinguished Security Analyst Tells How to Make More of Your Investment Opportunities. Thomas William Phelps
 
 ### 2020
 
